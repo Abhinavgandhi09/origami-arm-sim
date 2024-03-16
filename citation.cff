@@ -1,0 +1,10 @@
+cff-version: 1.2.0
+message: "If you use this software, please cite it as below."
+authors:
+- family-names: "Gandhi"
+  given-names: "Abhinav"
+- family-names: "Chiang"
+  given-names: "Shou-Shan"
+title: "Simulation Package for Origami Arm"
+date-released: 2024-03-15
+url: "https://github.com/Abhinavgandhi09/origami-arm-sim"
