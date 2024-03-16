@@ -5,6 +5,10 @@ authors:
   given-names: "Abhinav"
 - family-names: "Chiang"
   given-names: "Shou-Shan"
+- family-names: "Onal"
+  given-names: "Cagdas D."
+- family-names: "Calli"
+  given-names: "Berk"
 title: "Simulation Package for Origami Arm"
 date-released: 2024-03-15
 url: "https://github.com/Abhinavgandhi09/origami-arm-sim"
