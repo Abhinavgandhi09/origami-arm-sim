@@ -1,0 +1,34 @@
+# Backup files
+*~
+\#*
+\.#*
+
+# Computer-generated files
+install
+build
+devel
+
+# Catkin-specific files
+.catkin_workspace
+
+# All CMakeLists.txt are allowed except the root (symlinked)
+/ros_ws/src/CMakeLists.txt
+/ros_ws/CMakeLists.txt
+/CMakeLists.txt
+
+#build and devel files
+ros_ws/build/
+ros_ws/devel/
+
+#vscode files
+ros_ws/.vscode/
+ros_ws/.vscode/*
+ros_ws/.vscode
+\.vscode
+!.vscode/settings.json
+!.vscode/tasks.json
+!.vscode/launch.json
+!.vscode/extensions.json
+*.code-workspace
+.history/
+

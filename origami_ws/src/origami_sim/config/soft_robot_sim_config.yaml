@@ -1,0 +1,18 @@
+origami_sim:
+# Low level controller settings
+  motor_conversion: 0.1 # default = 0.1
+
+# Simulation parameters
+  control_rate: 10
+  lam: 1
+  # num_of_modules: 1
+  # init_cable_lengths: [[40,42,40.1]]
+  # init_cable_lengths: [[90,110,110]]
+  # init_cable_lengths: [[52,50,50.1]]
+  # init_cable_lengths: [[110,90,90]]
+  num_of_modules: 2
+  init_cable_lengths: [[40.1,45.0,45.1],[40.2,45.0,45.1]]
+  # init_cable_lengths: [[45.1,40.0,40.1],[2.2,2.0,2.1]]
+
+# Visualization settings
+  points_per_segment: 15
