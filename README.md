@@ -49,5 +49,5 @@ This makes it so that L1 is on the left and L2, L3 make a line parallel to camer
 Now we have a complete eye-to-hand setup in simulation. [cv2().projectpoints](https://docs.opencv.org/3.4/d9/d0c/group__calib3d.html) is used to project 3D points along the robot's body onto the image frame. Since L2 and L3 on the robot make a linke parallel to camera Z-axis, we can now constrain these two cables (in software) to operate together essentially constraining the robot to 2 Degrees of Freedom and a planar motion in the image.
 
 <p align="center">
-<img src="media\origami_robot_setup.jpeg" width="1280" height="960" />
+<img src="media\origami_robot_setup.png" width="1280" height="960" />
 </p>
