@@ -35,7 +35,7 @@ points_per_segment: "Resolution" of the robot curve in the image. Keep it to a l
 
 ## Simulation setup (details on camera frame and robot frame)
 The camera is spawned (as the world frame) and robot is spawned on the camera/world frame.
-
+(Check simulation setup 2 in the image)
 The robot frame is translated along camera frame to ensure the robot's workspace is visible in the image
 1. -200 along y
 2.  200 along z
