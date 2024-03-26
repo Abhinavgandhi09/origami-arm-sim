@@ -5,4 +5,4 @@ This repository contains a ROS package for simulating an origami inspired contin
 
 Use the following launch command to launch the simlator and visualization
 
-'''roslaunch origami_sim sim.launch'''
+```roslaunch origami_sim sim.launch```
