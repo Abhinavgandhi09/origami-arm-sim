@@ -18,7 +18,7 @@ To command cable lengths or cable velocities to the robot publish to the followi
 ```origami_vs/d_cable_length```
 
 To get the current cable lengths of the robot subscribe to the following ROS topic:
-```origami_vs/cable_length```
+```origami_vs/cable_lengths```
 
 ## origami_sim_vis.py
 To get the camera image subscribe to the following topic using image_view package in ROS:
